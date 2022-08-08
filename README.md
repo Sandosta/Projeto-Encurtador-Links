@@ -4,9 +4,6 @@
 Aplicação desenvolvida durante a Imersão React da plataforma.
 </p>
 
-<h1 align="center">
-  <img alt="logo" title="#logo" src="./assets/git.png" />
-</h1>
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
